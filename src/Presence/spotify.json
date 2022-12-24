@@ -54,5 +54,17 @@
 	"spotify.download": {
 		"message": "Downloading Spotify",
 		"description": ""
+	},
+	"spotify.buttonViewShow": {
+		"message": "View Show",
+		"description": "Button to view show"
+	},
+	"spotify.savedEpisodes": {
+		"message": "my episodes",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.buttonViewGenre": {
+		"message": "View Genre",
+		"description": "Button to view genre"
 	}
 }
