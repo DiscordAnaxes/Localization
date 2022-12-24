@@ -66,5 +66,13 @@
 	"spotify.buttonViewGenre": {
 		"message": "View Genre",
 		"description": "Button to view genre"
+	},
+	"spotify.viewAudiobook": {
+		"message": "Viewing audiobook:",
+		"description": ""
+	},
+	"spotify.buttonViewAudiobook": {
+		"message": "View Audiobook",
+		"description": "Button to view audiobook"
 	}
 }
