@@ -39,6 +39,10 @@
 		"message": "albums that they like",
 		"description": "\"Browsing through\" + this"
 	},
+	"spotify.audiobookLike": {
+		"message": "audibooks that they like",
+		"description": "\"Browsing through\" + this"
+	},
 	"spotify.songsLike": {
 		"message": "songs that they like",
 		"description": "\"Browsing through\" + this"
